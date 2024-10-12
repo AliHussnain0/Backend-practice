@@ -1,0 +1,2 @@
+# Backend-practice
+  Here's an improved version of your description:  In this project, I focus on fundamental topics in backend development, including essential concepts such as JWT (JSON Web Tokens) for authentication, CORS (Cross-Origin Resource Sharing) for managing cross-domain requests, and the core principles of writing effective Controllers to handle API requests. Additionally, I have gained a solid understanding of these foundational topics, which are key to building secure, efficient, and scalable backend systems.
